@@ -1,0 +1,1 @@
+The 3rd largest city in Jihan. Populated mostly by people who align with the [[Temple of the Scorching Sands]].  Less civilized than [[Worshipers of the Golden Dragon]], but yet surprisingly organized. 

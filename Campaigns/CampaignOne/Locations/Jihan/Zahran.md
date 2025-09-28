@@ -1,0 +1,1 @@
+The 2nd largest city in Jihan. Mainly populated by followers of [[Worshipers of the Golden Dragon]]. Civiliced for the most part, with barbaric traditions.

@@ -1,0 +1,1 @@
+Sitter per nå i et fangehull under vannet etter å ha tatt skylden for massakren i landsbyen eventyrerne reiste gjennom.

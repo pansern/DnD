@@ -1,0 +1,3 @@
+En mektig kriger som beskyttet den verdifulle landsbyen [[Thundertree]]. Han døde mystisk rett før vulkan utbruddet som la [[Thundertree]] i ruiner. Han voktet byen i 15 år fra alt fra Bullywugs til gjenger av barbarer.
+
+Han er en etterkommer av en lang rekke mektige hekser, selvom han selv ikke var trent eller brukte noen form for magi. Magien hans var derimot til stede i han. Palien gikk tidligere under navnet Palien Sinthral. Sinthral familien var kjent verden over som en av de mektigste hekse-familiene gjennom tidene. 

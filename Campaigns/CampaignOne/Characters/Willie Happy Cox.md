@@ -1,0 +1,10 @@
+---
+
+---
+
+---
+Backstory: 
+
+Willie var en gang en fredelig mann, en kjærlig ektemann og far, som levde i en liten, isolert by på grensen til sivilisasjonen. Livet var enkelt, men godt—helt til den dagen alt ble revet bort fra ham. En natt ble byen hans overfalt av en gruppe mystiske og skremmende skikkelser. De var ikke bare vanlige banditter eller leiesoldater; de var noe langt verre. Kultister, nådeløse krigere, eller kanskje noe enda mørkere—vesener som brukte en 
+unaturlig kraft som Willie fortsatt sliter med å forstå. De tok familien hans som gisler og ga ham et umulig valg: bli deres bøddel, deres håndlanger, deres våpen mot uskyldige mennesker—eller se kona og barna dø. I måneder—kanskje til og med år—fulgte Willie deres ordre, hendene hans tilsølt av blodet til mennesker han aldri hadde møtt. Han gjorde ting han aldri snakker om, ting han aldri kan gjøre godt igjen. Han overbeviste seg selv i begynnelsen: “Hvis jeg gjør dette, får de leve.” Men til slutt var alt forgjeves. De drepte familien hans likevel, mens de lo. Willie hadde blitt et monster—helt uten grunn. Da han endelig brøt fri—da han til slutt jaktet dem ned, én etter én, og drepte dem alle—innså han at han ikke hadde noe hjem lenger. Ingen hensikt. Han var en mann med en fortid for mørk til å rømme fra, men han nektet å gi seg til fortvilelsen. Han kunne ikke angre på det han hadde gjort, men kanskje, bare kanskje, kunne han finne en form for forløsning i denne verdenen. Så han ble en vandrer, en drifter med en revolver ved hofta og en lutt slengt over ryggen. Han spilte sanger mens han reiste, lo og fortalte vitser, fikk venner lett, men ble aldri lenge på ett sted. Men de som så ham kjempe—som så den kalde, beregnende soldaten våkne inni ham—visste at han var langt mer enn en enkel reisende. Han snakker aldri om fortiden. Han bærer vekten av sine synder alene. Men når det finnes urettferdighet, når det finnes mennesker som trenger hjelp, nøler ikke Willie. Hver kule han fyrer av forteller han selv er et skritt nærmere frelse. Og likevel, dypt inne, frykter han at ingen mengde godhet noen gang vil vaske bort det han har gjort.
+

@@ -1,0 +1,1 @@
+Moren til [[Percival Dano]] og [[Gurid Dano]] 

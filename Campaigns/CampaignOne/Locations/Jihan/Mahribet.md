@@ -1,0 +1,1 @@
+The 4th largest city in Jihan. A neutral city where non-religious people gather. For the most part a haven for the lawless. 

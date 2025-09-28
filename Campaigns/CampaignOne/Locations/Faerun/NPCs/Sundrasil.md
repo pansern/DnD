@@ -1,0 +1,1 @@
+Inneholder en sjel fra den første tiden, før mennesker, dverger, alver og mange bevisste vesener. 

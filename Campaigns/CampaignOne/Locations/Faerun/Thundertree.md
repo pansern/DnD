@@ -1,0 +1,3 @@
+En liten landsby som nå ligger i ruiner etter utbruddet fra vulkanen Mount Hotenow, som varmer opp vannet som strømmer gjennom Neverwinter. Byen var i sine storhetsdager et perfekt sted for tømmerhoggere og handelsmenn, da den lå rett i utkanten av Neverwinter Skogen. De hogget og gjorde klar treverk og materialer, før de sendte deg nedover kanalen og inn til byen.
+
+Det magiske objektet er en artefakt etter helten som beskyttet landsbyen i sin tidligere tid, Palien av Neverwinter. Midt i landsbyen står det en statue av denne mannen. 

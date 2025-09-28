@@ -1,0 +1,1 @@
+Smeden i byen, onkelen til [[Ezrra Dano]] 

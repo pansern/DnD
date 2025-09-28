@@ -1,0 +1,1 @@
+Den forsvunnede, rettmessige arvingen til sølv-alvenes rike, og tronarving for [[Black Rock Point]].

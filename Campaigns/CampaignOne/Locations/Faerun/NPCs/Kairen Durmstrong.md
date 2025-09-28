@@ -1,0 +1,1 @@
+Tidligere soldat for keiseren [[Balor Thunderfist]]. Mistet en arm i det forrige store slaget mot Duergerene i Underdark. Blind på det ene øyet.

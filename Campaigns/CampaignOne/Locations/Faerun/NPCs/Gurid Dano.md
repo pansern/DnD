@@ -1,0 +1,1 @@
+Moren til [[Ezrra Dano]], søster til [[Percival Dano]]

@@ -1,0 +1,1 @@
+A large part of Jihan, covered only in sand. Few points for navigation, filled with scarry creatures.

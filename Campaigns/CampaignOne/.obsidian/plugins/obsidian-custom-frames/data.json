@@ -1,0 +1,77 @@
+{
+  "frames": [
+    {
+      "url": "https://www.dndbeyond.com/characters/129623300/6nOJg1",
+      "displayName": "BeyondEmenor",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/126663769/Hw7NlV",
+      "displayName": "BeyondSpruce",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/140378485/TF76qq",
+      "displayName": "BeyondWillie",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "",
+      "displayName": "BeyondHarald",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/126490009/TfLVeX",
+      "displayName": "BeyondBorg",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/142629773/7C8EQU",
+      "displayName": "BeyondTore",
+      "icon": "shield",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
