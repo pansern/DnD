@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "36baf9d8087f951d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1490974b0a65c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c9f387ead756c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/CampaignOne/Session notes/2025-09-25 Campaign Session Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-25 Campaign Session Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94d77319ca0958a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f09209b3bbe034e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1d3cf8968da35ea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30ec943b02b14e7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "df4a3bdf67f2d749",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5086555480957
+  },
+  "right": {
+    "id": "312f51e8e461964f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c925f88335938ccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e41e316e39cac3f2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RPG Resources/srd5-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for srd5-1"
+            }
+          },
+          {
+            "id": "415c75f3e1ed741c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RPG Resources/srd5-1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from srd5-1"
+            }
+          },
+          {
+            "id": "0569c06476175ce8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3ccf47bdc804d9ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RPG Resources/srd5-1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of srd5-1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "6c9f387ead756c90",
+  "lastOpenFiles": [
+    "Campaigns/CampaignOne/Locations/Jihan/Banuqad.md",
+    "RPG Resources/5E_monsters/ankheg_mm_2024.md",
+    "Campaigns/CampaignOne/Session notes/2025-09-25 Campaign Session Notes.md",
+    "Campaigns/CampaignOne/Session notes/2025-10-09 Campaign Session Notes.md",
+    "RPG Resources/General shops.md",
+    "Campaigns/CampaignOne/Session notes/2025-09-25 Campaign Session Notes 1.md",
+    "Campaigns/CampaignOne/Locations/Jihan/Mahribet.md",
+    "Campaigns/CampaignOne/Locations/Jihan/Zahran.md",
+    "Campaigns/CampaignOne/Locations/Jihan/The Golden Planes.md",
+    "Campaigns/CampaignOne/Locations/Faerun/NPCs/Fiona Mah.md",
+    "Campaigns/CampaignOne/Session notes/Session 27.md",
+    "Campaigns/CampaignOne/Organizations/Temple of the Scorching Sands.md",
+    "Campaigns/CampaignOne/Creatures/Aquatic/Bullywug.md",
+    "Campaigns/CampaignOne/Creatures/Aquatic/Sahuagin.md",
+    "Campaigns/CampaignOne/Creatures/Ankheg.md",
+    "RPG Resources/Tools.md",
+    "Campaigns/CampaignOne - Revised/Characters.md",
+    "Campaigns/CampaignOne - Revised/NPCs.md",
+    "Templates/YYYY-MM-DD Campaign Session Notes.md",
+    "RPG Resources/srd5-1.md",
+    "Campaigns/CampaignOne/RPG Resources",
+    "Campaigns/CampaignOne/Notes",
+    "Templates/Statblock/Insert Monster statblock.md",
+    "Templates/Statblock/Insert custom monster.md",
+    "Templates/Call out Box/Call out Box - Tips.md",
+    "Templates/Call out Box/Call out Box - Info.md",
+    "Templates/Call out Box/Call out Box - Success.md",
+    "Templates/Call out Box/Call out Box - Les høyt.md",
+    "Templates/Statblock",
+    "Templates/Call out Box",
+    "Campaigns/CampaignOne/Templates",
+    "Campaigns/CampaignOne/Session notes",
+    "Campaigns/CampaignOne/Organizations",
+    "Campaigns/CampaignOne/Locations/Jihan/NPCs",
+    "Campaigns/CampaignOne/Locations/Hórdin/NPCs",
+    "Campaigns/CampaignOne/Locations/Faerun/NPCs",
+    "Campaigns/CampaignOne/Pictures/Neverwinter.png",
+    "Campaigns/CampaignOne/Pictures/Bullywuug.png",
+    "Campaigns/CampaignOne/Pictures/Bullywug.png",
+    "Campaigns/CampaignOne - Revised/Locations/Attachments/Campaign 1 world.jpg",
+    "Campaigns/CampaignOne - Revised/attachments/bailon_the_beardless.png.png"
+  ]
+}
